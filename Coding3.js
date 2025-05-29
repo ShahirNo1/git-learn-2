@@ -1,1 +1,1 @@
-control.log("version2")
+control.log("version3"); 
